@@ -1,1 +1,1 @@
-# Python_And_Data_Analyst_Project
+# Python_And_Data_Analytics_Project
